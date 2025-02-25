@@ -1,7 +1,7 @@
 # Signup-and-Login-page
 This repository contains a clean and responsive Sign and Login page built using HTML, CSS, and JavaScript. The project demonstrates how to create a user-friendly interface with smooth interactions and modern design aesthetics.
 
-* Signup-and-Login-page application link : 
+* Signup-and-Login-page application link : https://mrsaffu.github.io/Signup-and-Login-page/
 
 # ✨ Features
 * ✅ User-Friendly Interface – Clean and attractive design for a seamless experience.
@@ -25,7 +25,7 @@ This repository contains a clean and responsive Sign and Login page built using 
 * Switch Forms: Click on the links to toggle between Sign Up and Login forms.
   
 # 🚀 Live Demo
- * 🔗 Try it here: [Add your live demo link]
+ * 🔗 Try it here: https://mrsaffu.github.io/Signup-and-Login-page/
 
 # 🛠️ Customization
 Change the colors, fonts, and animations in styles.css.
