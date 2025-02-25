@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Loging Id</title>
+   <link rel="stylesheet" href="./login.css">
+</head>
+
+<body>
+   <form action onsubmit="loginData(event)">
+      <div class="mainCont">
+         <div class="heading">
+            <h1>Loging Form</h1>
+         </div>
+
+
+
+         <div class="textbox">
+            <div class="label">
+               <label for="First Name">Email</label>
+
+            </div>
+
+            <div class="input">
+               <input class="textInput" type="email" id="email" required>
+            </div>
+         </div>
+
+
+
+         <div class="textbox">
+            <div class="label">
+               <label for="First Name">Password</label>
+               <!-- <label for="Last Name" style="margin: 14px;">Conform Password</label> -->
+            </div>
+
+            <div class="input">
+               <input class="textInput" type="password" id="password" required>
+               <!-- <input class="textInput" type="password" id="conformpassword"> -->
+            </div>
+         </div>
+
+         <!--  -->
+         <div>
+            <p  id="alertmessage"></p>
+         </div>
+
+
+         <div class="textbox">
+            <button id="submit">Log In </button>
+            <p >Not a member ? <a href="./singup.html">SingUp now</a></p>
+         </div>
+
+
+      </div>
+
+
+   </form>
+   </div>
+
+   <script src="./loging.js"></script>
+   
+</body>
+
+</html>
